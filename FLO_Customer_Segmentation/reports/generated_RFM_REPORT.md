@@ -1,5 +1,5 @@
 # FLO RFM Analysis Report
-!FLO_Customer_Segmentation/reports/media/correlation_matrix.png
+
 ## About the Project
 
 This project was conducted to perform customer segmentation and RFM (Recency, Frequency, Monetary) analysis for the FLO company. The analysis will help the company better understand customer behavior and develop targeted marketing strategies.
