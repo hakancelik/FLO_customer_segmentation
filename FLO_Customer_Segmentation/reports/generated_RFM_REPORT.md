@@ -1,5 +1,5 @@
 # FLO RFM Analysis Report
-
+!FLO_Customer_Segmentation/reports/media/correlation_matrix.png
 ## About the Project
 
 This project was conducted to perform customer segmentation and RFM (Recency, Frequency, Monetary) analysis for the FLO company. The analysis will help the company better understand customer behavior and develop targeted marketing strategies.
@@ -141,7 +141,7 @@ This graph illustrates how customers are distributed across various segments. Th
 
 ## Correlation Matrix
 
-![Correlation Matrix](./../../media/correlation_matrix.png)
+![Correlation Matrix](../media/correlation_matrix.png)
 
 The correlation matrix highlights the relationships between the RFM metrics, helping to understand which metrics are more closely related to one another.
 
