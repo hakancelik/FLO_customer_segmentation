@@ -142,7 +142,7 @@ This graph illustrates how customers are distributed across various segments. Th
 
 ## Correlation Matrix
 
-![Correlation Matrix](FLO_Customer_Segmentation/media/correlation_matrix.png)
+![Correlation Matrix](media/correlation_matrix.png)
 
 The correlation matrix highlights the relationships between the RFM metrics, helping to understand which metrics are more closely related to one another.
 
