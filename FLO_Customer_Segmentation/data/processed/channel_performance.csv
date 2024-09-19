@@ -1,0 +1,5 @@
+order_channel,master_id,order_num_total_ever_online,order_num_total_ever_offline,customer_value_total_ever_online,customer_value_total_ever_offline
+Android App,9495,34015.0,18254.0,5448900.55,2370162.21
+Desktop,2735,5639.0,5281.0,869451.04,740870.42
+Ios App,2833,9904.0,5447.0,1772300.55,753699.38
+Mobile,4882,12488.0,9191.0,1828428.97,1199754.19
