@@ -124,7 +124,7 @@ Using these metrics, RFM scores were created for each customer, and customers we
 
 ## Channel Performance Analysis
 
-![Channel Performance](/media/channel_performance.png)
+![Channel Performance](*/media/channel_performance.png)
 
 The graph above shows the performance of various sales channels. Each channel's performance can be compared in terms of the number of customers, total orders, and total revenue.
 
