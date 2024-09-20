@@ -123,37 +123,37 @@ Using these metrics, RFM scores were created for each customer, and customers we
 
 ## Channel Performance Analysis
 
-![Channel Performance](../media/channel_performance.png)
+![Channel Performance](https://github.com/hakancelik/FLO_customer_segmentation/blob/a5b26c950124d90af90fb11756fb9e44c622b8e2/FLO_Customer_Segmentation/reports/media/channel_performance.png)
 
 The graph above shows the performance of various sales channels. Each channel's performance can be compared in terms of the number of customers, total orders, and total revenue.
 
 ## RFM Score Distribution
 
-![RFM Score Distribution](../media/rfm_score_distribution.png)
+![RFM Score Distribution](https://github.com/hakancelik/FLO_customer_segmentation/blob/a5b26c950124d90af90fb11756fb9e44c622b8e2/FLO_Customer_Segmentation/reports/media/rfm_score_distribution.png)
 
 This histogram displays the distribution of customers' RFM scores. Areas where the scores are concentrated offer insights into general customer behavior patterns.
 
 ## Segment Distribution
 
-![Segment Distribution](../media/segment_distribution.png)
+![Segment Distribution](https://github.com/hakancelik/FLO_customer_segmentation/blob/a5b26c950124d90af90fb11756fb9e44c622b8e2/FLO_Customer_Segmentation/reports/media/segment_distribution.png)
 
 This graph illustrates how customers are distributed across various segments. The size of each segment provides information about the structure of the company's customer base.
 
 ## Correlation Matrix
 
-![Correlation Matrix](../media/correlation_matrix.png)
+![Correlation Matrix](https://github.com/hakancelik/FLO_customer_segmentation/blob/a5b26c950124d90af90fb11756fb9e44c622b8e2/FLO_Customer_Segmentation/reports/media/correlation_matrix.png)
 
 The correlation matrix highlights the relationships between the RFM metrics, helping to understand which metrics are more closely related to one another.
 
 ## Customer Behavior Analysis
 
-![Customer Behavior Analysis](../media/customer_behavior_analysis.png)
+![Customer Behavior Analysis](https://github.com/hakancelik/FLO_customer_segmentation/blob/a5b26c950124d90af90fb11756fb9e44c622b8e2/FLO_Customer_Segmentation/reports/media/customer_behavior_analysis.png)
 
 This scatter plot shows the Recency and Monetary values of customers. Different colors represent different segments, helping to visualize customer behavior patterns.
 
 ## RFM Segmentation Results
 
-![RFM Segmentation Results](../media/rfm_segmentation_results.png)
+![RFM Segmentation Results](https://github.com/hakancelik/FLO_customer_segmentation/blob/a5b26c950124d90af90fb11756fb9e44c622b8e2/FLO_Customer_Segmentation/reports/media/rfm_segmentation_results.png)
 
 This graph illustrates the results of the RFM segmentation in terms of Recency and Frequency. Each point represents a customer, and the color indicates their segment.
 
